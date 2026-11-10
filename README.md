@@ -2,6 +2,9 @@
 
 I am a Full-stack Developer and Founder passionate about local-first software architecture, self-hosted open-source tools, and terminal-first workflows. With a background blending e-commerce operations and B2B wholesale, I focus on building practical tech solutions that directly solve management challenges and boost productivity.
 
+**🌐 Explore my portfolio & articles:** [duongbirken.deta.vn](https://duongbirken.deta.vn)
+
+### 🛠️ Tech Stack & Tools
 ### 🛠️ Tech Stack & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
